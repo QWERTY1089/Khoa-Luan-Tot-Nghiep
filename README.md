@@ -1,0 +1,2 @@
+# Khoa-Luan-Tot-Nghiep
+ƯỚC LƯỢNG ĐỘ BẤT ĐỊNH TRONG DỰ BÁO KHOẢNG TỶ GIÁ USD/VND BẰNG MẠNG GRU VÀ MONTE CARLO DROPOUT
